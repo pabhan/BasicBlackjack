@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1429444701 source:c:\users\federico\dropbox\da aggiungere\applications\xr\cards\main.cpp
+	<iostream>
+	"Deck.h"
+
+1429444459 source:c:\users\federico\dropbox\da aggiungere\applications\xr\cards\src\card.cpp
+	"Card.h"
+
+1429444533 c:\users\federico\dropbox\da aggiungere\applications\xr\cards\include\card.h
+	<iostream>
+
+1429434810 c:\users\federico\dropbox\da aggiungere\applications\xr\cards\include\suit.h
+
+1429434915 c:\users\federico\dropbox\da aggiungere\applications\xr\cards\include\rank.h
+
+1429446018 source:c:\users\federico\dropbox\da aggiungere\applications\xr\cards\src\deck.cpp
+	"Deck.h"
+
+1429445404 c:\users\federico\dropbox\da aggiungere\applications\xr\cards\include\deck.h
+	<list>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"Card.h"
+
+1429735582 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\card.cpp
+	"Card.h"
+
+1429565625 c:\users\federico\dropbox\todo\programming\c++\cards\include\card.h
+	<iostream>
+
+1429566165 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\deck.cpp
+	"Deck.h"
+
+1429452764 c:\users\federico\dropbox\todo\programming\c++\cards\include\deck.h
+	<list>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	"Card.h"
+
+1429821503 source:c:\users\federico\dropbox\todo\programming\c++\cards\main.cpp
+	<iostream>
+	<vector>
+	"BlackjackDealer.h"
+
+1429740616 c:\users\federico\dropbox\todo\programming\c++\cards\include\hand.h
+	"Card.h"
+	<cstdlib>
+	<list>
+	<iostream>
+
+1429655292 c:\users\federico\dropbox\todo\programming\c++\cards\include\dealer.h
+	"Deck.h"
+
+1429821746 c:\users\federico\dropbox\todo\programming\c++\cards\include\player.h
+	"Hand.h"
+
+1429656089 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\dealer.cpp
+	"Dealer.h"
+
+1429821773 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\player.cpp
+	"Player.h"
+
+1429740775 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\hand.cpp
+	"Hand.h"
+
+1429821800 source:c:\users\federico\dropbox\todo\programming\c++\cards\src\blackjackdealer.cpp
+	"BlackjackDealer.h"
+
+1429818149 c:\users\federico\dropbox\todo\programming\c++\cards\include\blackjackdealer.h
+	<Player.h>
+	<Dealer.h>
+
